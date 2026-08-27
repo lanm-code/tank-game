@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行数据与本地存档 (不公开个人进度)
+savegame.json
+
+# 构建产物 (可随时重新打包)
+build/
+dist/
+
+# 截图与检查输出
+素材检查/
+shot_*.png
+*.png.tmp
+
+# 归档 (未使用的旧素材/备份)
+归档_未使用/
+
+# 素材备份
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
